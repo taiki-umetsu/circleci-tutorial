@@ -15,9 +15,5 @@ jobs:
          command: |
            ls -al
            echo '^^^That should look familiar^^^'
-     - run:
-         name: 独自コンテナで実行
-         command: |
-          node -v
 
 
